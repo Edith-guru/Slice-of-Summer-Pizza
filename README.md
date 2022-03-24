@@ -41,4 +41,4 @@ _https://edith-guru.github.io/Slice-of-Summer-Pizza/_
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Edith Nekesa_**
+Copyright (c) 2022 **_Edith Nekesa_**
